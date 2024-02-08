@@ -55,6 +55,9 @@ msgstr ""
 msgid "Go to offset"
 msgstr ""
 
+msgid "Go to"
+msgstr ""
+
 msgid "Offset"
 msgstr ""
 
@@ -461,4 +464,13 @@ msgid "Mode"
 msgstr ""
 
 msgid "Architecture"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Tree"
+msgstr ""
+
+msgid "Language"
 msgstr ""
